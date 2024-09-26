@@ -22,21 +22,25 @@ The *Image Encryption Tool By EricIyke* includes the following features:
 12. *Generate QR Code for Key Sharing*: Generate and share QR codes for encryption keys, allowing easy key sharing.
 13. *Toggle Dark Mode*: Switch between dark and light mode for a better visual experience.
 
+https://github.com/user-attachments/assets/990156db-99da-45ae-ae4c-dc36d26111ac
+
+
+
 Installation
 
 To use this tool, follow these steps:
 
 1. Clone the repository:
 
-'git clone https://github.com/UzoukwuEricIyke/PRODIGY_CS_02'
+`git clone https://github.com/UzoukwuEricIyke/PRODIGY_CS_02`
 
 2. Navigate to the project directory:
 
-'cd PRODIGY_CS_02'
+`cd PRODIGY_CS_02`
 
 3. Install the required dependencies:
 
-`pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 4. Run the program:
 
@@ -71,8 +75,8 @@ Contributions are welcome. If you have suggestions for improving the tool or fin
 
 For further information or inquiries, please contact:
 
-*Uzoukwu Eric Ikenna*  
-Email: [uzoukwuericiyke@yahoo.com](mailto:uzoukwuericiyke@yahoo.com)
-LinkedIn - https://www.linkedin.com/in/uzoukwu-eric-ikenna/
+  *Uzoukwu Eric Ikenna*  
+  Email: [uzoukwuericiyke@yahoo.com](mailto:uzoukwuericiyke@yahoo.com)
+  LinkedIn - https://www.linkedin.com/in/uzoukwu-eric-ikenna/
 
 Thank you for using the Image Encryption Tool By EricIyke. I hope it meets your encryption and security needs.
